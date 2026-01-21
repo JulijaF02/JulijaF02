@@ -55,4 +55,4 @@ Previously worked as a Lead Unity Developer and Execution Coordinator, shipping 
 
 🌐 Portfolio: [https://julijafilipovic.com](https://julijafilipovic.com)
 📧 Email: [contact@julijafilipovic.com](mailto:contact@julijafilipovic.com)
-💻 GitHub: [https://github.com/JulijaF02](https://github.com/JulijaF02)
+
